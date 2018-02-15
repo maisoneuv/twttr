@@ -1,6 +1,6 @@
 # Twitter client
 This project is an excersie for me to finally learn how to write anything by myself. 
-List of the desirable features will most likely change if I get some genius idea or decide that something is way too difficult to make.  
+List of the desirable features will most likely change along the way if I get some genius idea or decide that something is way too difficult for me to make.  
 Buckle your seatbelts and enjoy the ride, I guess.
 
 ## Twitter client features
