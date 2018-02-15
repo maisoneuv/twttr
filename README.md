@@ -11,6 +11,6 @@ Buckle your seatbelts and enjoy the ride, I guess.
 5. Search for other users and hashtags
 6. Filter your timeline
 7. Advanced search
--Search for words, mentions on certain date
+- Search for words, mentions on certain date
 8. Show realtion between two users
 9. Show notifications
